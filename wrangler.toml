@@ -7,6 +7,10 @@ compatibility_date = "2026-09-30"
 pattern = "light2.aicoat.top"
 custom_domain = true
 
+# 环境变量配置
+[vars]
+D = "a8f27c3e-519b-4e89-b762-d98c11e35a0f"
+
 # KV 命名空间绑定
 [[kv_namespaces]]
 binding = "C"
