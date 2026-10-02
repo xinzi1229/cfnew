@@ -1,5 +1,5 @@
 name = "p-guang"
-main = "名文源码"
+main = "明文源码"
 compatibility_date = "2026-09-30"
 
 # 自定义域名（Cloudflare 自动管理 DNS 和 TLS 证书）
