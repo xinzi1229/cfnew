@@ -1,0 +1,13 @@
+name = "p-guang"
+main = "名文源码"
+compatibility_date = "2026-09-30"
+
+# 自定义域名（Cloudflare 自动管理 DNS 和 TLS 证书）
+[[routes]]
+pattern = "light.aicoat.top"
+custom_domain = true
+
+# KV 命名空间绑定
+[[kv_namespaces]]
+binding = "C"
+id = "57f45df27533417e84e549fa50596d75"
