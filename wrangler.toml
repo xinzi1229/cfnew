@@ -9,7 +9,7 @@ custom_domain = true
 
 # 环境变量配置
 [vars]
-D = "a8f27c3e-519b-4e89-b762-d98c11e35a0f"
+d = "xinzi"
 
 # KV 命名空间绑定
 [[kv_namespaces]]
